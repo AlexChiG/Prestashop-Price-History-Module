@@ -16,7 +16,7 @@ To install this module, you would have to download this whole repository besides
 
 ## 1.Ce face acest modul
 
-## Acest modul creează un tabel în baza de date prestashop care este actualizat ori de câte ori un produs este actualizat. În acest tabel puteți găsi id-ul produsului actualizat, prețul curent pe care îl are acest produs, prețul vechi pe care îl avea acest produs și data la care a fost adăugată sau modificată fiecare înregistrare. Acest tabel este afișat și în tabloul de bord sub o nouă filă numită Price History Module din fila parinte Vânzări.
+Acest modul creează un tabel în baza de date prestashop care este actualizat ori de câte ori un produs este actualizat. În acest tabel puteți găsi id-ul produsului actualizat, prețul curent pe care îl are acest produs, prețul vechi pe care îl avea acest produs și data la care a fost adăugată sau modificată fiecare înregistrare. Acest tabel este afișat și în tabloul de bord sub o nouă filă numită Price History Module din fila parinte Vânzări.
 
 ## 2.Cum se instalează acest modul pe site-ul meu Prestashop
 
